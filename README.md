@@ -1,2 +1,2 @@
-# bot-app
+# bct-app
 BCT Application app
